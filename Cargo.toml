@@ -1,8 +1,9 @@
 [package]
-name = "pebble"
+name = "ghostype"
 version = "0.1.0"
 authors = ["EtherD3v <github.com/EtherD3v>"]
 edition = "2024"
 
 [dependencies]
-rocket = "0.5.1"
+crossterm = "0.29.0"
+ratatui = "0.30.0"
