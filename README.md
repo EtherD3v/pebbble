@@ -1,1 +1,1 @@
-![GhosType 👻](https://github.com/EtherD3v/GhosType/blob/main/public/img/GhosType.png)
+![rust-vs-zig](https://github.com/EtherD3v/rust-vs-zig/blob/main/public/img/logo.png)
